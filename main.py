@@ -10,4 +10,4 @@ for i in range(len(cogs)):
 
 
 
-client.run("ODczNDI0NTkyNTQxMjE2Nzg4.YQ4OCg.Db2IiVl4gFyU48fFupO-WCO1Suo")
+client.run("TOken id")
